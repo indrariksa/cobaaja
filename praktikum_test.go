@@ -12,7 +12,7 @@ func TestInsertPresensi(t *testing.T) {
 	phonenumber := "68122221814"
 	checkin := "masuk"
 	biodata := Karyawan{
-		Nama:         "Drake",
+		Nama:         "Babang",
 		Phone_number: "628456456211",
 		Jabatan:      "Rakyat Biasa",
 	}
